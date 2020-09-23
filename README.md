@@ -1,1 +1,1 @@
-# wishlist-service
+# product-wishlist-service
