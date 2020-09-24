@@ -1,0 +1,23 @@
+{
+  "name": "product-wishlist-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "db:setup": "node database/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edgar-Allan-Crows/product-wishlist-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edgar-Allan-Crows/product-wishlist-service/issues"
+  },
+  "homepage": "https://github.com/Edgar-Allan-Crows/product-wishlist-service#readme",
+  "devDependencies": {
+    "mysql": "^2.18.1"
+  }
+}
